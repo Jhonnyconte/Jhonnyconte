@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - ⚡ Sou estudante de Ciências da Computação
-- 🔭 Atualmente estou trabalhando na Orsegups Participações S/A como Técnico de T.I 
+- 🔭 Atualmente estou trabalhando na Orsegups Participações S/A como Analista de Sistemas
 - 🌱 Atualmente estou aprendendo mais sobre o mundo do Front-end com as formações da Alura
 
 ## Ferramentas e Tecnologias
